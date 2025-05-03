@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
         <a href="#contact">CONTACT ME</a>
     </div>
-    <img src="src/assets/ME.png" alt="menu"></img>
+    <img src="/ME.png" alt="menu"></img>
 
 </section>
   );

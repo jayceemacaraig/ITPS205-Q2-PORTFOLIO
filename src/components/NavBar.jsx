@@ -4,7 +4,7 @@ import React from 'react'
 const NavBar = () => {
   return (
     <nav>
-    <a href="#hero"><img src="src/assets/LOGO.png" alt="LOGO"></img></a>
+    <a href="#hero"><img src="/LOGO.png" alt="LOGO"></img></a>
     <div className="desktop">
         <a href="#about">ABOUT</a>
         <a href="#skills">SKILLS</a>

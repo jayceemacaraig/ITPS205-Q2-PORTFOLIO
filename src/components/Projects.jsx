@@ -7,21 +7,21 @@ const Projects = () => {
   const slides = [
     {
       id: 1,
-      img: "src/assets/CHUABLES.png",
+      img: "/CHUABLES.png",
       h3: "Chuables Bakeshop",
       p: "A promotional website with a content of the bakeshop where users can visit and inquire with the shop through online",
       a: "https://jayceemacaraig.github.io/PELEC201--CHUABLES-/",
     },
     {
       id: 2,
-      img: "src/assets/FACEBOOK.png",
+      img: "/FACEBOOK.png",
       h3: "Facebook Clone",
       p: "A Front End design for social media app (facebook clone) using Material UI components and NextJS.",
       a: "https://www.facebook.com/",
     },
     {
       id: 3,
-      img: "src/assets/KOUR.png",
+      img: "/KOUR.png",
       h3: "Kour.io",
       p: " an action-packed, multiplayer FPS game that offers a dynamic and exciting gameplay experience. Players engage in fast-paced battles across various maps, with a wide selection of guns and game modes to choose from.",
       a: "https://kour.io/",
